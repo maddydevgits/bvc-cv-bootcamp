@@ -43,4 +43,24 @@
         <td>10</td>
         <td>Writing Video</td>
     </tr>
+    <tr>
+        <td>11</td>
+        <td>Hand Tracking</td>
+    </tr>
+    <tr>
+        <td>12</td>
+        <td>Finger Tracking using Music Control</td>
+    </tr>
+    <tr>
+        <td>13</td>
+        <td>Gesture Recognition</td>
+    </tr>
+    <tr>
+        <td>14</td>
+        <td>Teachable Machine</td>
+    </tr>
+    <tr>
+        <td>15</td>
+        <td>Streamlit or Flask </td>
+    </tr>
 </table>
